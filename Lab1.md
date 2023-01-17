@@ -1,4 +1,4 @@
-                              The following lab report discusses how to log into a course-specific account in ieng6.
+The following lab report discusses how to log into a course-specific account in ieng6.
                               
 <img width="1200" alt="Screenshot_20230111_034153" src="https://user-images.githubusercontent.com/122497642/212381254-1a12e71a-9f73-4973-9aa2-2890d09157c2.png">
 
