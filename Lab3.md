@@ -24,7 +24,7 @@ travel_guides/berlitz2/Vallarta-WhereToGo.txt:However, Caleta and Caletilla, cov
 `grep -r "string"` does a recursive search to find files that contain the string inputted inside the command. 
 
 
- Citation: https://alvinalexander.com/linux-unix/recursive-grep-r-searching-egrep-find/
+ Citation: [Link](https://alvinalexander.com/linux-unix/recursive-grep-r-searching-egrep-find/)
 
 ### 2. `grep -c "String" *.txt`
 #### Example 1
@@ -194,7 +194,7 @@ Vallarta-WhereToGo.txt:1
 
 `grep -c "string" *.txt` prints out the number of times the inputted string appears in all the text files in the specific directory
 
-Citation: https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+Citation: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ### 3. `grep -n "string" *.txt`
 
@@ -215,7 +215,7 @@ Vallarta-WhereToGo.txt:89:However, Caleta and Caletilla, coves located south of 
 
 `grep -n "string" *.txt` displays the file, line number, and the line the string appears in the text files in the directory.
 
-Citation: https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+Citation: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ### 4. `grep -o "string" *.txt`
 #### Example 1
@@ -235,4 +235,4 @@ Bahamas-History.txt:Lucayans`
 
 `grep -o "string" *.txt` prints out the string every time it is found in each text file of the directory.
 
-Citation: https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+Citation: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
