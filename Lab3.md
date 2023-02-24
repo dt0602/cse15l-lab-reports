@@ -21,7 +21,7 @@ travel_guides/berlitz2/Vallarta-WhatToDo.txt:There are several waterparks: In Ac
 travel_guides/berlitz2/Vallarta-WhereToGo.txt:However, Caleta and Caletilla, coves located south of the zócolo on the Peninsula de las Playas, are the most popular public beaches in Acapulco. They are colorful sites, with palapa-topped beach restaurants, bright-hued passenger boats, water sports–equipment rental stands, and fishermen selling their fresh catch to beachgoers. These side-by-side beaches are separated by a narrow, rocky peninsular, which is the site of the Mágico Mundo Marino water park and aquarium.
 `
 
-`grep -r "string"` does a recursive search to find files that contain the string inputted inside the command. 
+`grep -r "string"` does a recursive search to find files that contain the string inputted inside the command. This command is useful because it allows the user to see the sections of text that contains the word in multiple files. 
 
 
  Citation: [Link](https://alvinalexander.com/linux-unix/recursive-grep-r-searching-egrep-find/)
@@ -192,7 +192,7 @@ Vallarta-WhatToDo.txt:0
 Vallarta-WhereToGo.txt:1
 `
 
-`grep -c "string" *.txt` prints out the number of times the inputted string appears in all the text files in the specific directory
+`grep -c "string" *.txt` prints out the number of times the inputted string appears in all the text files in the specific directory. This command is useful because it allows the user to see how many files have the specific string and how many times the string occurs in each file. Using `*.txt` is convenient if the user wants to see if the string is in all the files in the directory and they won't have to know what files have the string.
 
 Citation: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
@@ -213,7 +213,7 @@ PuertoRico-WhatToDo.txt:83:Mundo Submarino (Isla Verde; Tel. 791-5764). Daily di
 Vallarta-WhatToDo.txt:80:There are several waterparks: In Acapulco, the CICI (Centro Internacional de Convivencia Infantil), across from the Convention Center, offers hours of fun with waterslides, a water center for toddlers, a fresh-water pool with waves, plus a dolphin and seal show, all included in the entrance fee of around US$4. Another waterpark is located near Caleta beach, called Mundo Mágico Marino. It features waterslides, an aquarium, pools — one is a saltwater pool — and boat rides. El Rey León, located near Pie de la Cuesta, is a large family-style restaurant with shallow pools and waterslides for children, plus a miniature train.In Puerto Vallarta, the Mayan Palace Waterpark in Marina Vallarta has waterslides, a lazy-river, and a mini-waterpark for young children. Children ten and older will be both moved and amazed by swimming with the dolphins, experiences that are available both in Acapulco and Puerto Vallarta.
 Vallarta-WhereToGo.txt:89:However, Caleta and Caletilla, coves located south of the zócolo on the Peninsula de las Playas, are the most popular public beaches in Acapulco. They are colorful sites, with palapa-topped beach restaurants, bright-hued passenger boats, water sports–equipment rental stands, and fishermen selling their fresh catch to beachgoers. These side-by-side beaches are separated by a narrow, rocky peninsular, which is the site of the Mágico Mundo Marino water park and aquarium.`
 
-`grep -n "string" *.txt` displays the file, line number, and the line the string appears in the text files in the directory.
+`grep -n "string" *.txt` displays the file, line number, and the line the string appears in the text files in the directory. This command is useful because it allows the user to know exactly where the string is located in each file, since it presents the line number.
 
 Citation: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
