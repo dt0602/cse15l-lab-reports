@@ -233,6 +233,6 @@ input: `grep -o "Lucayans" *.txt`
 output: `Bahamas-History.txt:Lucayans
 Bahamas-History.txt:Lucayans`
 
-`grep -o "string" *.txt` prints out the string every time it is found in each text file of the directory.
+`grep -o "string" *.txt` prints out the string every time it is found in each text file of the directory. This command is useful because it shows the string every time it comes up in a file wihtout presenting the long output of the multiple lines in the file that contain the string. Again `*.txt` allows the user to be able to find the string in different files without already having to know what files the string is in. 
 
 Citation: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
