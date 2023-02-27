@@ -23,13 +23,13 @@ To run the tests I used `<ctrl-r>` and typed in `j` to find the compile command 
 
 To edit the file to fix the errors, I entered `nano ListExamples.java` to directly access the program. In the last while loop of the code, I changed `index1 += 1` to `index2 += 1` because the error was that the wrong index variable was incremented, creating and endless while loop. I hit `<ctrl-o>`and `<enter>` tosave the file and `<ctrl-x>` to exit out of the editing file.
 
-### Step 8
+## Step 8
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/122497642/221690178-08aafa7a-481c-445a-83a5-e87510112baf.png">
 
 To test the file again, I hit `<up><up><up><enter>` and `<up><up><up><enter>` to compile and run the test file with no errors this time. 
 
-### Step 9
+## Step 9
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/122497642/221696261-2b224a5c-8416-4f46-9819-4581c6368277.png">
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/122497642/221696312-3dda0770-f640-4cd2-84a0-286032c7b116.png">
