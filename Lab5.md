@@ -57,3 +57,23 @@ Citation: [Link](https://phoenixnap.com/kb/less-command-in-linux)
 
 ### 4. `less file1.txt file2.txt`
 
+#### Example 1: 
+input: `less Berlin-History.txt Berlin-WhatToDo.txt`
+
+output: <img width="1199" alt="image" src="https://user-images.githubusercontent.com/122497642/224867690-77ff48a5-2245-427e-af1b-f3f4d8a512b5.png">
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/122497642/224867716-09154d29-3ee8-4b4d-8190-bae8dbe2b047.png">
+<img width="1198" alt="image" src="https://user-images.githubusercontent.com/122497642/224867735-e54943ef-7604-48c7-940f-25e0053c65d7.png">
+<img width="1200" alt="image" src="https://user-images.githubusercontent.com/122497642/224867762-44b3d34c-7e3c-4b80-8df3-df15f344c3a5.png">
+
+#### Example 2:
+input: `less Nepal-WhatToDo.txt Nepal-WhereToGo.txt`
+
+output: <img width="1200" alt="image" src="https://user-images.githubusercontent.com/122497642/224867797-9ea60d70-d551-42c2-9b24-a68bc8216dc8.png">
+<img width="1197" alt="image" src="https://user-images.githubusercontent.com/122497642/224867821-da65c4c1-a458-4ffb-952c-9a099dd7c1db.png">
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/122497642/224867850-98f03956-124f-41b6-995c-033a2001e19f.png">
+<img width="1198" alt="image" src="https://user-images.githubusercontent.com/122497642/224867877-85753bd7-be00-428b-924f-82185abcad51.png">
+
+
+`less file1.txt file2.txt`
+
+Citation: [Link](https://phoenixnap.com/kb/less-command-in-linux)
