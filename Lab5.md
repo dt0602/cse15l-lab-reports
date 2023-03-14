@@ -74,6 +74,6 @@ output: <img width="1200" alt="image" src="https://user-images.githubusercontent
 <img width="1198" alt="image" src="https://user-images.githubusercontent.com/122497642/224867877-85753bd7-be00-428b-924f-82185abcad51.png">
 
 
-`less file1.txt file2.txt` allows the user to access the contents of multiple files all at once. The user is able to see what file they are looking at currently. This provides more convenience for the user since they wouldn't have to enter `less file.txt` for every file they want to access. In order to go from one file to the next, after reaching the end of a file, the user must enter `<:n>` to go to the next file. The user can access the previous file by hitting `<:p>`. 
+`less file1.txt file2.txt` allows the user to access the contents of multiple files all at once. The user is able to see what file they are looking at currently. This provides more convenience for the user since they wouldn't have to enter `less file.txt` for every file they want to access. In order to go from one file to the next, after reaching the end of a file, the user must enter `<:n>` to go to the next file. The user can access the previous file by hitting `<:p>`.
 
 Citation: [Link](https://phoenixnap.com/kb/less-command-in-linux)
