@@ -51,3 +51,9 @@ input: `less -X Nepal-History.txt`
 output: <img width="1187" alt="image" src="https://user-images.githubusercontent.com/122497642/224841762-b883cd5d-d668-4475-b526-1f32dfec90ec.png">
 <img width="1196" alt="image" src="https://user-images.githubusercontent.com/122497642/224841807-bafe6c74-504d-43ba-a905-e4af1eb7cd38.png">
 
+`less -X file.txt` disables clearing the contents of the file on the terminal screen. This is a useful command because it allows the user to view the entire contents of a file all at once, without having to manually scroll through the file. In order to exit and be able to enter new commands in the terminal, the user can still enter `<q>`.
+
+Citation: [Link](https://phoenixnap.com/kb/less-command-in-linux)
+
+### 4. `less file1.txt file2.txt`
+
